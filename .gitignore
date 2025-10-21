@@ -9,3 +9,6 @@ config.status
 configure
 rkdeveloptool
 rkdeveloptool*bz2
+
+# 添加macOS的系统文件忽略规则
+.DS_Store
